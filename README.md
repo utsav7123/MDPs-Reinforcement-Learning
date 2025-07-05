@@ -77,6 +77,8 @@ The project is modular, easily extendable, and is designed for educational use.
 ```bash
 python gridworld.py -a value
 ```
+![Screenshot](images.png)
+
 Run Q-Learning Agent:
 ```bash
 python gridworld.py -a q
